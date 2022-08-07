@@ -1,0 +1,15 @@
+.thead{
+    border: 1px solid rgb(19, 121, 206)
+}
+.thead th{
+    border: 1px solid rgb(19, 121, 206);
+    text-align: center
+}
+.sort{
+    display: flex;
+    flex-direction: row;
+}
+.sortSearchDiv{
+    display: flex;
+    flex-direction: row;
+}
